@@ -1,0 +1,9 @@
+---
+logging:
+  level:
+    com.robertdare: 'DEBUG'
+    org.springframework: 'OFF'
+
+info:
+  version: 1.0
+  name:  Simple SB Template

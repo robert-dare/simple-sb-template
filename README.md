@@ -1,2 +1,2 @@
 # simple-sb-template
-Simple spring-boot starter template
+Simple spring-boot starter template.
