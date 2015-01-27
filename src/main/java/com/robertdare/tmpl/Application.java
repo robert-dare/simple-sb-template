@@ -14,7 +14,7 @@ import java.io.InputStreamReader;
 import java.net.URI;
 
 /**
- * POC Client application context entry point.
+ * Spring-boot application context entry point.
  *
  * @author dare (robert.dare@gmail.com)
  * @since 1.0
